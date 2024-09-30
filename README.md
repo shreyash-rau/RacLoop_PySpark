@@ -1,8 +1,16 @@
-# Heart Disease Prediction Using PySpark
+# Heart Disease Data Preprocessing and Feature Engineering using Apache Spark
 
-## Project Overview
+## Background
+Cardiovascular diseases are among the leading causes of mortality worldwide. Early
+detection and analysis of heart disease risk factors are crucial for effective treatment and prevention
+strategies. The availability of large datasets with patient health records presents an opportunity to
+develop predictive models that can assist in identifying high-risk individuals. However, before
+applying machine learning models, it is essential to preprocess the data and engineer relevant
+features to enhance the model's performance.
 
-This project utilizes Apache Spark's PySpark library to analyze and predict heart disease based on several clinical parameters. The project processes data, builds a logistic regression model, and evaluates its predictive accuracy, focusing on a dataset containing various heart disease indicators.
+## Objective
+The goal of this project is to preprocess and transform a dataset containing heart disease-
+related variables using Apache Spark. The dataset includes attributes such as age, gender, chest pain
 
 ## Notebook Workflow
 
